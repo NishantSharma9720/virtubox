@@ -1,5 +1,4 @@
 # virtubox
-Absolutely. Below is a complete, interview/assessment-ready solution for your VirtuBox Software Tester (QA) Assessment. You can use this directly in your assignment and explain the reasoning during the interview.
 
 Assessment Test: Software Tester (QA)
 
