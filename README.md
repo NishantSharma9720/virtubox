@@ -1,4 +1,7 @@
 # virtubox
+Name Nishant Sharma 
+Email NS62771@gmail.com
+Phone no 9720989735
 
 Assessment Test: Software Tester (QA)
 
